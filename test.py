@@ -1,2 +1,2 @@
 def hello_class():
-        print("heyy class!!!")
+        print("idk")
